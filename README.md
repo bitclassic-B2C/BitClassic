@@ -1,32 +1,13 @@
 
 BitClassic development tree
 
-BitClassic is a PoS-based cryptocurrency.
+BitClassic is a POW & PoS-based cryptocurrency.
 
-Development process
-===========================
+What is BitClassic
+BitClassic (B2C) is a digital currency that can be sent between people over the internet. BitClassic (B2C) stays true to the original vision of cryptocurrency: a financial system owned by its users, the people’s coin. BitClassic (B2C) is not controlled by large banks or mining hardware manufacturers and can be mined by anyone profitably.
 
-Developers work in their own trees, then submit pull requests when
-they think their feature or bug fix is ready.
+BitClassic (B2C) is an open source, blockchain based, decentralized cryptocurrency that enables instant payments to anyone with minimum transaction fees. BitClassic also allows you to earn interest for helping maintain security on the network by holding B2C in a Qt Desktop wallet that is attached to the network and allowing transactions to flow through it.
 
-The patch will be accepted if there is broad consensus that it is a
-good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
-or are controversial.
+A finite resource similar to gold, you can rest assured that BitClassic (B2C) will keep your money safe from vested interests and ensure that transaction fees are proportionate and shared between a large number of miners. With BitClassic (B2C), you can truly be your own bank.
 
-The master branch is regularly built and tested, but is not guaranteed
-to be completely stable. Tags are regularly created to indicate new
-stable release versions of BitClassic.
 
-Feature branches are created when there are major new features being
-worked on by several people.
-
-From time to time a pull request will become outdated. If this occurs, and
-the pull is no longer automatically mergeable; a comment on the pull will
-be used to issue a warning of closure. The pull will be closed 15 days
-after the warning if action is not taken by the author. Pull requests closed
-in this manner will have their corresponding issue labeled 'stagnant'.
-
-Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
-labeled 'stale'.
