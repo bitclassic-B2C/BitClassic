@@ -1,4 +1,6 @@
 
+https://www.bitclassic.org/
+
 BitClassic development tree
 
 BitClassic is a POW & PoS-based cryptocurrency.
@@ -12,9 +14,11 @@ BitClassic (B2C) is an open source, blockchain based, decentralized cryptocurren
 A finite resource similar to gold, you can rest assured that BitClassic (B2C) will keep your money safe from vested interests and ensure that transaction fees are proportionate and shared between a large number of miners. With BitClassic (B2C), you can truly be your own bank.
 
 
+
+
+
 Specifications
 __________________________________________________________________________________________________________________________________________
-
 Algorithm: Scrypt (POW/POS)
 
 Abbreviation: B2C
@@ -26,4 +30,5 @@ Target Spacing: 64 seconds
 Block Rewards: 25 coins per block
 
 Difficulty Re-Target Time: Retargets every block
+
 
